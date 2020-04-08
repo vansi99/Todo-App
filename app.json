@@ -25,6 +25,8 @@
     ],
     "ios": {
       "supportsTablet": true
-    }
+    },
+    "description": "Si's Todo App",
+    "githubUrl": "https://github.com/vansi99/Todo-App"
   }
 }

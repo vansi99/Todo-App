@@ -48,6 +48,7 @@ const TodoScreen = ({ navigation }) => {
     useEffect(() => {
         resetTodoes().then();
     }, [])
+
     useLayoutEffect(() => {
         navigation.setOptions({
             headerRight: () => (

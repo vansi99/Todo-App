@@ -14,7 +14,7 @@ const App = () => {
                     name="Todo"
                     component={TodoScreen}
                     options={{
-                        title: "My Todo",
+                        title: "Si's Todo",
                         headerStyle: {
                             backgroundColor: "red",
                         },
